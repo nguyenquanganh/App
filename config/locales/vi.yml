@@ -6,6 +6,8 @@ vi:
       content: "Day la trang chu cua"
       content1: "huong dan Ruby on Rails"
       content2: "ung dung don gian."
+      content3: "Dang nhap ngay"
+      alt: "Rails logo"
     help:
       title: "Giup do"
       content: "Nhan giup do tai"
@@ -27,3 +29,25 @@ vi:
       title: "Lien he"
       content: "lien he chung toi tai"
       content1: "lien he page"
+  layouts:
+    footer:
+      content: "The"
+      content1: "Ruby on Rails Tutorial"
+      content2: "boi"
+      content3: "Michael Hartl"
+      content4: "News"
+      content5: "About"
+      content6: "Contact"
+    header:
+      content: "sample app"
+      content1: "Home"
+      content2: "Help"
+      content3: "Login"
+  users:
+    new:
+      title: "Dang nhap"
+      content: "Day la trang dang nhap danh cho users"
+  application:
+    language:
+      en: "Tieng Anh"
+      vi: "Tieng Viet"
