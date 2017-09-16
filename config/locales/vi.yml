@@ -1,0 +1,29 @@
+vi:
+  title_t: "Ung dung Ruby on Rails Tutorial"
+  static_pages:
+    home:
+      title: "Trang chu"
+      content: "Day la trang chu cua"
+      content1: "huong dan Ruby on Rails"
+      content2: "ung dung don gian."
+    help:
+      title: "Giup do"
+      content: "Nhan giup do tai"
+      content1: "Rails Tutorial help section"
+      content2: "Nhan giup do ve trang nay, xem tai"
+      content3: "Ruby on Rails Tutorial"
+    about:
+      title: "Xem them"
+      content: "huong dan ruby on rails"
+      content1: "de day lap trinh web"
+      content2: "day la ung dung co ban cua sach"
+      n1: "la"
+      n2: "sach"
+      n3: "va"
+      n4: "loat screencast"
+      n5: "Ruby on Rails"
+      the: "the"
+    contact:
+      title: "Lien he"
+      content: "lien he chung toi tai"
+      content1: "lien he page"
