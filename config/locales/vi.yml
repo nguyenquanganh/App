@@ -46,7 +46,11 @@ vi:
   users:
     new:
       title: "Dang nhap"
-      content: "Day la trang dang nhap danh cho users"
+      content: "Tao tai khoan"
+      name: "Ten"
+      email: "Email"
+      pass: "Mat khau"
+      confirm: "Xac nhan"
   application:
     language:
       en: "Tieng Anh"

@@ -46,8 +46,14 @@ en:
   users:
     new:
       title: "Sign up"
-      content: "This will be a signup page for new users."
+      content: "Create an account"
+      name: "Name"
+      email: "Email"
+      pass: "Password"
+      confirm: "Confirmation"
   application:
     language:
       en: "English"
       vi: "Vietnamese"
+  err:
+    err1: "The form contains"
