@@ -6,7 +6,7 @@ vi:
       content: "Day la trang chu cua"
       content1: "huong dan Ruby on Rails"
       content2: "ung dung don gian."
-      content3: "Dang nhap ngay"
+      signup: "Dang nhap ngay"
       alt: "Rails logo"
     help:
       title: "Giup do"
@@ -31,23 +31,32 @@ vi:
       content1: "lien he page"
   layouts:
     footer:
-      content: "The"
-      content1: "Ruby on Rails Tutorial"
-      content2: "boi"
-      content3: "Michael Hartl"
-      content4: "News"
-      content5: "About"
-      content6: "Contact"
+      leftcontent: "The"
+      leftcontent1: "Ruby on Rails Tutorial"
+      leftcontent2: "boi"
+      leftcontent3: "Michael Hartl"
+      rightcontent4: "News"
+      about: "About"
+      contact: "Contact"
     header:
-      content: "sample app"
-      content1: "Home"
-      content2: "Help"
-      content3: "Login"
+      title: "sample app"
+      home: "Home"
+      help: "Help"
+      login: "Login"
   users:
     new:
       title: "Dang nhap"
-      content: "Day la trang dang nhap danh cho users"
+      content: "Tao tai khoan"
+      name: "Ten"
+      email: "Email"
+      pass: "Mat khau"
+      confirm: "Xac nhan"
   application:
     language:
       en: "Tieng Anh"
       vi: "Tieng Viet"
+  error:
+    form-contains: "The form contains"
+    error: "loi"
+  controller:
+    welcome: "Welcome to the Sample App!"
