@@ -6,7 +6,7 @@ en:
       content: "This is the home page for the"
       content1: "Ruby on Rails Tutorial"
       content2: "sample application."
-      content3: "Signup now"
+      signup: "Signup now"
       alt: "Rails logo"
     help:
       title: "Help"
@@ -31,23 +31,32 @@ en:
       content1: "contact page"
   layouts:
     footer:
-      content: "The"
-      content1: "Ruby on Rails Tutorial"
-      content2: "by"
-      content3: "Michael Hartl"
-      content4: "News"
-      content5: "About"
-      content6: "Contact"
+      leftcontent: "The"
+      leftcontent1: "Ruby on Rails Tutorial"
+      leftcontent2: "by"
+      leftcontent3: "Michael Hartl"
+      rightcontent4: "News"
+      about: "About"
+      contact: "Contact"
     header:
-      content: "sample app"
-      content1: "Home"
-      content2: "Help"
-      content3: "Login"
+      title: "sample app"
+      homr: "Home"
+      help: "Help"
+      login: "Login"
   users:
     new:
       title: "Sign up"
-      content: "This will be a signup page for new users."
+      content: "Create an account"
+      name: "Name"
+      email: "Email"
+      pass: "Password"
+      confirm: "Confirmation"
   application:
     language:
       en: "English"
       vi: "Vietnamese"
+  error:
+    form-contains: "The form contains"
+    error: "error"
+  controller:
+    welcome: "Welcome to the Sample App!"
