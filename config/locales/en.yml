@@ -43,6 +43,11 @@ en:
       homr: "Home"
       help: "Help"
       login: "Login"
+      user: "Users"
+      profile: "Profile"
+      setting: "Settings"
+      logout: "Log out"
+      account: "Account "
   users:
     new:
       title: "Sign up"
@@ -60,3 +65,12 @@ en:
     error: "error"
   controller:
     welcome: "Welcome to the Sample App!"
+    sessions:
+      danger: "Invalid email/password combination"
+  sessions:
+    new:
+      title: "Log in"
+      email: "Email"
+      pass: "Password"
+      signup: "Sign up now!"
+      newusr: "New user?"

@@ -43,6 +43,11 @@ vi:
       home: "Home"
       help: "Help"
       login: "Login"
+      user: "Users"
+      profile: "Profile"
+      setting: "Settings"
+      logout: "Log out"
+      account: "Account "
   users:
     new:
       title: "Dang nhap"
@@ -60,3 +65,12 @@ vi:
     error: "loi"
   controller:
     welcome: "Welcome to the Sample App!"
+    sessions:
+      danger: "Invalid email/password combination"
+  sessions:
+    new:
+      title: "Dang nhap"
+      email: "Email"
+      pass: "Mat khau"
+      signup: "Dang ky ngay!"
+      newusr: "Nguoi moi?"
